@@ -6,7 +6,7 @@
     <tr>
         <td style="width:33.33%;"><img src="https://github.com/VishalTheHuman.png/" style="width:100%; height:auto;"></td>
         <td style="width:33.33%;"><img src="https://github.com/amri-tah.png/" style="width:100%; height:auto;"></td>
-        <td style="width:33.33%;"><img src="https://github.com/SaranDharshanSP.png/" style="width:120%; height:auto;"></td>
+        <td style="width:33.33%;"><img src="https://github.com/SaranDharshanSP.png/" style="width:100%; height:auto;"></td>
 	<td style="width:33.33%;"><img src="https://github.com/SURIYA-KP.png/" style="width:100%; height:auto;"></td>
     </tr>
     <tr>
