@@ -23,6 +23,12 @@
     </tr>
 </table>
 
+## Hackathon Result
+
+![1726992851068](image/README/1726992851068.png)
+
+**46th Team out of 18,000 + teams.**
+
 ## Approach
 
 Extracting entity values from product images are crucial for sectors like healthcare, e-commerce, andcontent moderation, where product details such as weight, dimensions, wattage, and voltage are vitalfor accurate listings.  Our approach focused on utilizing theQwen2-VL-2B-Instruct model[1] [2],making use of its vision-language capabilities to interpret both visual and textual information withinimages.
