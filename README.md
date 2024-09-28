@@ -27,7 +27,7 @@
 
 ![1726992851068](image/README/1726992851068.png)
 
-**46th Team out of 18,000 + teams.**
+**46th Team out of 18,000+ teams.**
 
 ## Approach
 
